@@ -1,7 +1,9 @@
 # Poketwo-Powerful-Spammer
-A AI Based Discord Channel Spammer that spams only on specific channel whithout rate limit. A strong code against Catchtwo Spammer.
+An AI Based Discord Channel Spammer that spams only on specific channel whithout rate limit. A strong code against Catchtwo Spammer.
 
+#screenshot
 https://imgur.com/a/ZICYcAJ
+
 100% GURANTEE OF NO RATE LIMIT
 WARRANTY AVAILABLE !!!
 
